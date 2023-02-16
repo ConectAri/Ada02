@@ -3,7 +3,7 @@
 
 Exercícios para desenvolver o aprendizado sobre:
 
-1)Length;
+1)Length(https://github.com/ConectAri/Ada02/tree/master/Aula);
 
 2)Soma, subtração, divisão, multiplicação;
 
