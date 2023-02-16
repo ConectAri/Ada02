@@ -7,7 +7,7 @@ Exercícios para desenvolver o aprendizado sobre:
 
 2)Soma, subtração, divisão, multiplicação;
 
-3)If, Else, If Else;
+3)If, Else, If Else(https://github.com/ConectAri/Ada02/tree/master/Escola);
 
 4)Entrada e saída de dados, méda ponderada;
 
