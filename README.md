@@ -1,5 +1,5 @@
 # Ada02
-<h1> Ada Tech</1>
+ Ada Tech
 
 Exercícios para desenvolver o aprendizado sobre:
 
