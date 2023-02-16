@@ -1,0 +1,26 @@
+# Ada02
+<h1> Ada Tech</1>
+
+Exercícios para desenvolver o aprendizado sobre:
+
+1) Length;
+
+2) Soma, subtração, divisão, multiplicação;
+
+3)If, Else, If Else;
+
+4)Entrada e saída de dados, méda ponderada;
+
+5)Formatação de data;
+
+6) Switch,case;
+
+7) String.format "%s-%s-%s";
+
+8) Input.nextLine();
+
+9) TesteTamanhoString;
+
+10) Try, Catch;
+
+11)ENUM;
