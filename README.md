@@ -3,9 +3,9 @@
 
 Exercícios para desenvolver o aprendizado sobre:
 
-1) Length;
+1)Length;
 
-2) Soma, subtração, divisão, multiplicação;
+2)Soma, subtração, divisão, multiplicação;
 
 3)If, Else, If Else;
 
@@ -13,14 +13,14 @@ Exercícios para desenvolver o aprendizado sobre:
 
 5)Formatação de data;
 
-6) Switch,case;
+6)Switch,case;
 
-7) String.format "%s-%s-%s";
+7)String.format "%s-%s-%s";
 
-8) Input.nextLine();
+8)Input.nextLine();
 
-9) TesteTamanhoString;
+9)TesteTamanhoString;
 
-10) Try, Catch;
+10)Try, Catch;
 
 11)ENUM;
